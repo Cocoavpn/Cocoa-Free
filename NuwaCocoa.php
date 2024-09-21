@@ -1,6 +1,6 @@
 {
 
-"Version_update": "1.1",
+"Version_update": "1.2",
 
 "Message": "
 ++++ แอพรองรับ ++++
